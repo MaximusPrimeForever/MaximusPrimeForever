@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @MaximusPrimeForever
-- 👀 I’m interested in ... nothing.
-- 🌱 I’m currently learning ... nothing.
-- 💞️ I’m looking to collaborate on ... nothing.
-- 📫 How to reach me ... you can't reach me.
+- 👋 Hi, I’m Max.
+- 👀 I’m interested in computer graphics.
+- 🌱 I’m currently learning OpenGL.
 
 <!---
 MaximusPrimeForever/MaximusPrimeForever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
